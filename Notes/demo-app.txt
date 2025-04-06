@@ -9,3 +9,12 @@ password password123
 
 admin_username admin
 password admin_password
+
+https://library-management-phi-fawn.vercel.app/
+
+librarian 
+john
+Fqxq9891pO
+
+NEXT_PUBLIC_SUPABASE_URL=https://fuvtpaxaevtlcidakdyr.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1dnRwYXhhZXZ0bGNpZGFrZHlyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM5NjU4NTIsImV4cCI6MjA1OTU0MTg1Mn0.UY2f1p-jO9XgOIk21pi6kE7n0YjYQJsCuDlt9ymeFig
