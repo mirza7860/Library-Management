@@ -1,16 +1,10 @@
-https://college-library-management-ab.vercel.app/
+https://library-management-clg.vercel.app
 
-
-student id S123456
-password KgE2AjPq
-
-librarian_username librarian
-password password123
+student id S12345
+password student_pass
 
 admin_username admin
 password admin_password
-
-https://library-management-phi-fawn.vercel.app/
 
 librarian 
 john
